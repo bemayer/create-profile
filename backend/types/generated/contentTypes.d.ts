@@ -372,7 +372,8 @@ export interface AdminUser extends Struct.CollectionTypeSchema {
 export interface ApiBioBio extends Struct.CollectionTypeSchema {
   collectionName: 'bios';
   info: {
-    displayName: 'bio';
+    description: '';
+    displayName: 'Profile';
     pluralName: 'bios';
     singularName: 'bio';
   };

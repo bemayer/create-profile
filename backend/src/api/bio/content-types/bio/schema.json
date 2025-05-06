@@ -4,7 +4,8 @@
   "info": {
     "singularName": "bio",
     "pluralName": "bios",
-    "displayName": "bio"
+    "displayName": "Profile",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
